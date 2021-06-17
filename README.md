@@ -5,10 +5,12 @@ I am a fresher aspiring to create a successful career in development. I love dev
 - How to reach me psspshiva@gmail.com
 
  New Blogs posts
-- Exceptions in kotlin
-- Loops, Ranges and Progressions in kotlin
+- [Exceptions in kotlin](https://developersbreach.com/exceptions-in-kotlin/)
+- [Loops, Ranges and Progressions in kotlin](https://developersbreach.com/loops-ranges-progressions-kotlin/)
 
 Connect with me
+- [Linkedin](linkedin.com/in/shiva-prasad-a48006194)
+- [stackoverflow](https://stackoverflow.com/users/15838719/shiva-prasad?tab=profile)
 
 
 <!---
